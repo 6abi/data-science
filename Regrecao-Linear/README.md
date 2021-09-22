@@ -17,6 +17,48 @@ data-science-notas-filmes
 	<p align="left">🚧 Em construção... 🚧</p>
 </h4>
 
+<table>
+	<tbody align='left'>
+		<tr>
+			<th><h3> Tarefa </h3></th>
+			<th><h3> Status </h3></th>
+		</tr>
+		<tr>
+			<th> estatística descritiva inicial </th>
+			<th>✔</th>
+		</tr>
+		<tr>
+			<th> matriz de correlação </th>
+			<th>✔</th>
+		</tr>
+		<tr>
+			<th> plotagem gráfico variação Dias x Consumo </th>
+			<th>✔</th>	
+		</tr>	
+		<tr>
+			<th> Box plot de consumo </th>
+			<th>✔</th>
+		</tr>
+		<tr>
+			<th> box plot consumo final de semana </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> formatação seaborn box plot </th>
+			<th>✔</th>		
+		</tr>
+		</tr>
+		<tr>
+			<th> Distribuição de frequência </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Pairplot para análise de dispersão entre as variáveis </th>
+			<th>✔</th>		
+		</tr>
+	</tbody>
+</table>
+
 <!-- Indice -->
 <!--<p align="center">
  <a href="#objetivo">Objetivo</a> •

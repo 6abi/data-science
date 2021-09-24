@@ -56,6 +56,30 @@ data-science-notas-filmes
 			<th> Pairplot para análise de dispersão entre as variáveis </th>
 			<th>✔</th>		
 		</tr>
+		<tr>
+			<th> Dataset de treino e teste </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Estimando um modelo de regressão </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Previsões pontuais </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Previsões com o modelo estimado </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Os coeficientes estimados - interpretação </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Resíduos </th>
+			<th>🚧</th>		
+		</tr>
 	</tbody>
 </table>
 

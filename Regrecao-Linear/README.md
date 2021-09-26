@@ -14,7 +14,7 @@ data-science-notas-filmes
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
 <h4 align="left"> 
-	<p align="left">🚧 Em construção... 🚧</p>
+	<p align="left">Finalizado</p>
 </h4>
 
 <table>
@@ -78,7 +78,23 @@ data-science-notas-filmes
 		</tr>
 		<tr>
 			<th> Resíduos </th>
-			<th>🚧</th>		
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Avaliação do modelo - Erro quadrático médio </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Avaliação do modelo:
+                Erro quadrático médio, Erro quadrático médio,
+                Avaliação do modelo - Raiz do erro quadrático médio,
+            </th>
+			<th>✔</th>		
+		</tr>
+		<tr>
+			<th> Salvando o modelo estimado,
+                    Usando o modelo - teste </th>
+			<th>✔</th>		
 		</tr>
 	</tbody>
 </table>

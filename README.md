@@ -73,4 +73,3 @@ data-science-notas-filmes
 	<img alt="#vendas" title="#vendas" src="./result_git/vendas.png" width=1200" height="600"/>
 </div>-->
 												 
-

@@ -52,8 +52,7 @@ data-science-notas-filmes
   <p align="left"> Clone o repositorio</p>
 	<p align="left"> 1. Tenha o Python3 instalado, caso execute localmente</p>
   	<p align="left"> 1. Tenha o Jupyter instalado, caso execute localmente</p>
-  	<p align="left"> 1.1 Use um framework de sua preferência, Pycharm, Spider, etc</p>
-	<p align="left"> 1.2 Clone o repositório</p>
+  	<p align="left"> 1.1 Use um framework de sua preferência, Pycharm, Spider, Jupyter, etc</p>
 	<p align="left"> OBS: Neste projeto foi utilizado o Pycharm</p>
   <p align="left">OU</p>
 	<p align="left"> 2. Tenha uma conta no Google Colab</p>
